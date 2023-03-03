@@ -1,0 +1,24 @@
+Understanding earth is sphere:
+Shadow of the earth in the moon
+Polar star - comparing near equator and far
+Ships process of showing above horizon
+
+Calculating the circumference of the earth:
+https://www.khanacademy.org/humanities/big-history-project/solar-system-and-earth/knowing-solar-system-earth/a/eratosthenes-of-cyrene
+*we take two places - first without shadow second with skew shadow, we take measure between places(L), and angle of second shadow(A) then calculate
+A/360 = L/x
+
+Understanding circles/ellipses moving of planets:
+Nicholas Copernicus
+https://www.spitzinc.com/blog/solar-system-scale-copernicus-method/
+*we wait when planet for observation will take a farrest place from the sun - this position gets us opportunity to calculate: line(main line) from earth to planet of observation is tangent of circle trajectory of this planet around the sun, angle between this line and sun is 90. We know angle between main line and line from earth to sun(main angle), and we can calculate length of main line with sin of main angle * length from earth to the sun(for example 1)
+
+Understanding circles/ellipses moving of stars:
+Edwin Hubble
+
+Theory of relativity:
+https://www.wikihow.com/Understand-the-Theory-of-Relativity
+
+Quantum theory:
+
+
