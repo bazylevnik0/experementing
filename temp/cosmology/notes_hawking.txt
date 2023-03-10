@@ -13,11 +13,29 @@ Nicholas Copernicus
 https://www.spitzinc.com/blog/solar-system-scale-copernicus-method/
 *we wait when planet for observation will take a farrest place from the sun - this position gets us opportunity to calculate: line(main line) from earth to planet of observation is tangent of circle trajectory of this planet around the sun, angle between this line and sun is 90. We know angle between main line and line from earth to sun(main angle), and we can calculate length of main line with sin of main angle * length from earth to the sun(for example 1)
 
-Understanding circles/ellipses moving of stars:
-Edwin Hubble
+Understanding galaxy not a limit and other galaxies also exist:
+"Edwin Hubble in Mount Wilson Observatory made observations, prove that the Universe extends beyond the Milky Way galaxy, universe is expanding."wiki
+*observation of size and brightness
+
+Two basics theories for cosmology:
 
 Theory of relativity:
 https://www.wikihow.com/Understand-the-Theory-of-Relativity
+*
+Method 1:
+1)
+1a)example when two observators see one action but on the different distance from action
+1b)galileo: "ship travelling at constant velocity, without rocking, on a smooth sea; any observer below the deck would not be able to tell whether the ship was moving or stationary"wiki
+2)
+Newtons Laws:
+21)when we in "stable" position we need force(F) for starting moving(overcoming inertion)
+**Inertia is a word we use when we talk about matter and movement:
+    1. An object at rest tends to stay at rest.
+    2. An object in motion tends to stay in motion.
+    https://www.qrg.northwestern.edu/projects/vss/docs/propulsion/2-what-is-inertia.html
+22)F = ma
+23)F = -F
+
 
 Quantum theory:
 
