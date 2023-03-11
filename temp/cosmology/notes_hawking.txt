@@ -35,6 +35,30 @@ Newtons Laws:
     https://www.qrg.northwestern.edu/projects/vss/docs/propulsion/2-what-is-inertia.html
 22)F = ma
 23)F = -F
+3)
+Michelson interferometer experiment - destroy theory about ether for light(like a air for sound)
+*
+universe extends but not have a ether(as i understand either must have a direction of extending of universe) 
+we can buid Michelson interferometer - with half mirror(45o) the start light splits to two beams and go through distance to the mirror and back to the detector(by perpendicular mirror to finish),
+https://www.britannica.com/science/Michelson-Morley-experiment 
+undependent from positions/rotations we got same results(splitted beams have a same time, light not lost speed through hypothetical ether expanding direction) 
+4)
+*Einstein - speed of light is constant in vacuum(also proof of not existing ether)
+two theories of relativity: 
+//temp:
+41)special relativity
+*speed is constant in all situations nothin not can be more then speed of light, changes only distance and time
+**when we move with speed of light, actions for us what we make in this moving system stay the same, 
+but in these moving system all actions going through much more distances with constant speed of light, 
+=> distances of actions become larger but speed stil same, time for observator from "non-moving" system are moving more slow 
+***E = mc^2 it is dependency in situatuions when we near to light speed, when we have a mass we need energy, 
+also this impossible moves with speed of light while you have a mass, and when you spend more energy you get more mass
+http://abyss.uoregon.edu/~js/ast122/lectures/lec20.html
+42)general relativity 
+*mass warps space, objects move through different distance in same time //this is feeling of time
+**when you near to gravitational object you have more speed - you moving "faster", but in general you move in warpen space with more distance and have same "time" when you move less distance without gravitational object
+https://www.youtube.com/watch?v=tzQC3uYL67U&list=LL&index=2
+
 
 
 Quantum theory:
