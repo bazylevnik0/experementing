@@ -23,6 +23,7 @@ Theory of relativity:
 https://www.wikihow.com/Understand-the-Theory-of-Relativity
 *
 Method 1:
+History understanding
 1)
 1a)example when two observators see one action but on the different distance from action
 1b)galileo: "ship travelling at constant velocity, without rocking, on a smooth sea; any observer below the deck would not be able to tell whether the ship was moving or stationary"wiki
@@ -45,21 +46,42 @@ undependent from positions/rotations we got same results(splitted beams have a s
 4)
 *Einstein - speed of light is constant in vacuum(also proof of not existing ether)
 two theories of relativity: 
-//temp:
 41)special relativity
 *speed is constant in all situations nothin not can be more then speed of light, changes only distance and time
-**when we move with speed of light, actions for us what we make in this moving system stay the same, 
+**when object moves with speed of light, actions for object what object make in this moving system stay the same, 
 but in these moving system all actions going through much more distances with constant speed of light, 
 => distances of actions become larger but speed stil same, time for observator from "non-moving" system are moving more slow 
-***E = mc^2 it is dependency in situatuions when we near to light speed, when we have a mass we need energy, 
-also this impossible moves with speed of light while you have a mass, and when you spend more energy you get more mass
+(proof: experiment conducted by physicist Joseph C. Hafele and astronomer Richard E. Keating. Taking with four atomic clocks and airplane)
 http://abyss.uoregon.edu/~js/ast122/lectures/lec20.html
 42)general relativity 
 *mass warps space, objects move through different distance in same time //this is feeling of time
 **when you near to gravitational object you have more speed - you moving "faster", but in general you move in warpen space with more distance and have same "time" when you move less distance without gravitational object
 https://www.youtube.com/watch?v=tzQC3uYL67U&list=LL&index=2
 
+Method 2:
+Understanding special relativity
+1)
+Frame of reference - Point of view
+2)
+Light travel not regardless from Frames
+3)
+Time diliation - time slows down when object is moving  
+4)
+E = mc^2 it is dependency in situatuions when we near to light speed, when we have a mass we need energy, 
+also this impossible moves with speed of light while you have a mass, and when you spend more energy you get more mass
 
+Method 3:
+1)Acceleration a = deltaV/deltaT
+2)gravitational F1 = F2 = (G*(m1*m2))/r^2
+
+Method 4:
+1)satelites have a time shifting
+2)electrons absorb light, and must have speed to not to be absorbed by nuclear
+3)change of temperature - change speed of moleculs(mercury - liquid/non-liquid)
+4)solar power:
+https://www.youtube.com/watch?v=pusKlK1L5To
+"When photons, or particles of light, hit the thin layer of silicon on the top of a solar panel, they knock electrons off the silicon atoms." 
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi2mdbioNb9AhXrcvEDHYQ7BmoQFnoECCcQAw&url=https%3A%2F%2Fwww.nationalgrid.com%2Fstories%2Fenergy-explained%2Fhow-does-solar-power-work&usg=AOvVaw3wFFm7r1BLASYmD4rMEqSm
 
 Quantum theory:
 
