@@ -12,9 +12,18 @@ i installed:
 -"bluez" - as i understand it is bunch of tools(also stack for "blueman") for working with bluetooth
 https://ubuntu.com/core/docs/bluez/reference/commands
 it is have bluetoothctl(command "list" in ctl not showing any controllers)
-and tools for working with HCI(https://manpages.debian.org/testing/bluez/hcitool.1.en.html)
+and tools for working with HCI(	)
 -"blueman" GTK bluetooth manager(when was first launch - show something, but then failure when relaunching)
 -and "bluetooth" (also blue-z, obex, something about supporting bluetooth)
 
 *something usefull for reading https://wiki.archlinux.org/title/bluetooth
+
+heh now i know about csr and realtek under linux)
+*also i found awesome util in linux maybe it will be usefull for others devices
+it is skips(installation request from devices it is required for win oriented devices in some cases)
+https://manpages.ubuntu.com/manpages/bionic/man1/usb_modeswitch.1.html
+
+i am going to try https://linux-hardware.org/?view=howto
+my ubuntu must work with it (it is have a drivers for it)
+
 
