@@ -80,9 +80,34 @@ Method 4:
 3)change of temperature - change speed of moleculs(mercury - liquid/non-liquid)
 4)solar power:
 https://www.youtube.com/watch?v=pusKlK1L5To
-"When photons, or particles of light, hit the thin layer of silicon on the top of a solar panel, they knock electrons off the silicon atoms." 
+"When photons, or particles of light, hit the thin layer of silicon on the top of a solar panel, they knock electrons off the silicon atoms." (photoelectric effect)
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi2mdbioNb9AhXrcvEDHYQ7BmoQFnoECCcQAw&url=https%3A%2F%2Fwww.nationalgrid.com%2Fstories%2Fenergy-explained%2Fhow-does-solar-power-work&usg=AOvVaw3wFFm7r1BLASYmD4rMEqSm
+
+electron - "quanta of electricity"
+photon - quant of nuclear, photon maybe it is wave and participle, photons it is result of working elctromagnetic force in light
+quant - is minimum amout of entity
+quantum nature - quant is a wave and participle
 
 Quantum theory:
 
+Franck–Hertz experiment  - tube with cathode and anode but between mercure, 
+electrons with with rising speed - are have drops in current (lost and reise through mercure with wave form), 
+it is showin quantitive nature of atom.
 
+https://www.techtarget.com/whatis/definition/quantum-theory
+
+/*temp
+"that radiation from a glowing body changes in color from red, to orange, and, finally, to blue as its temperature rises." 
+something about quanta(i now don't know what is it)
+
+first things first: radiation https://en.wikipedia.org/wiki/Radiation
+-electromagnetic radiation:
+--radiovawes(longest waves in electromagnetic spectrum)
+--it about moving nuclear in electrons field with frequency https://www.youtube.com/watch?v=V_jYXQFjCmA
+--*change polarity,AC, with frequency possible borns waves in just a wire 
+--Hertz experiment with spark generator(antenna) and receiver, just ring with("u" form), ring got electricity through distance https://www.youtube.com/watch?v=9gDFll6Ge7g&feature=youtu.be
+**stopped herehttps://www.youtube.com/watch?v=FWCN_uI5ygY 0:21 
+
+https://en.wikipedia.org/wiki/Radiation
+https://en.wikipedia.org/wiki/Radio_wave
+*/
