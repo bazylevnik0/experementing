@@ -102,12 +102,27 @@ something about quanta(i now don't know what is it)
 
 first things first: radiation https://en.wikipedia.org/wiki/Radiation
 -electromagnetic radiation:
---radiovawes(longest waves in electromagnetic spectrum)
---it about moving nuclear in electrons field with frequency https://www.youtube.com/watch?v=V_jYXQFjCmA
---*change polarity,AC, with frequency possible borns waves in just a wire 
---Hertz experiment with spark generator(antenna) and receiver, just ring with("u" form), ring got electricity through distance https://www.youtube.com/watch?v=9gDFll6Ge7g&feature=youtu.be
-**stopped herehttps://www.youtube.com/watch?v=FWCN_uI5ygY 0:21 
+--radiovawes(longest waves in electromagnetic spectrum) <300GHz
+---it about moving nuclear in electrons field with frequency https://www.youtube.com/watch?v=V_jYXQFjCmA
+---*change polarity,AC, with frequency possible borns waves in just a wire 
+---Hertz experiment with spark generator(antenna) and receiver, just ring with("u" form), ring got electricity through distance https://www.youtube.com/watch?v=9gDFll6Ge7g&feature=youtu.be
+---https://www.youtube.com/watch?v=FWCN_uI5ygY about dipole antenna and with Hertz expirement(visualizations)
+---"radio waves in a vacuum travel at the speed of light, and in the Earth's atmosphere at a close, but slightly lower speed."wiki
+--microwaves,infrared - ~same as a radiovawes, but more shortless
+--visible light 750–420 terahertz
 
-https://en.wikipedia.org/wiki/Radiation
-https://en.wikipedia.org/wiki/Radio_wave
+
+https://en.wikipedia.org/wiki/Light
+Certain other mechanisms can produce light:
+    Bioluminescence
+    -luminiscense with chemical reaction, result of changing levels of electrons
+    -in chemistry - exist method for calculating electrons configurations(with table), the energy levels(shells), and they have observations of reactions and it is possible to predict glowing
+    -simple example phosphor - when getting light(electrons moving far from nuclear)(charging), then they slowly return to them positions and it is glowing effect(emits photons)
+    Cherenkov radiation
+    -when light going through medium (light decrease speed) but electrons, whose face with the light can have speed more than the light.
+    -"classic example of Cherenkov radiation is the characteristic blue glow of an underwater nuclear reactor"wiki 
+    Electroluminescence
+    Scintillation
+    Sonoluminescence
+    Triboluminescence
 */
