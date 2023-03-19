@@ -110,14 +110,42 @@ first things first: radiation https://en.wikipedia.org/wiki/Radiation
 ---"radio waves in a vacuum travel at the speed of light, and in the Earth's atmosphere at a close, but slightly lower speed."wiki
 --microwaves,infrared - ~same as a radiovawes, but more shortless
 --visible light 750–420 terahertz
+*color is absorption and reflection of photons with atoms(absorb and emmit(re-emmit))
+*understanding of color is getting different re-emmited waves with different wavelengths
+ 
+https://en.wikipedia.org/wiki/List_of_light_sources
+-Gas lighting 
+-Oil Lamp
+-Explosive
+-Fire
+-Incandescent light bulb 
+-Annihilation 
+-Nuclear reaction
+-Sun
+-Biophoton
+-Glowworm
+-Anglerfish
+-Cathodoluminescence
+-Chemiluminescense
+-Lightning
+-Fluorescent lamp 
+-Neon and argon lamps 
+-Plasma lamp 
+-Electroluminescence
+-Light-emitting diode 
+-Laser 
+-Fluorescence
+-Phosphorescence
+-Radioluminescence
+-Thermoluminescence
 
-
-https://en.wikipedia.org/wiki/Light
-Certain other mechanisms can produce light:
-    Bioluminescence
+    /*temptemp
     -luminiscense with chemical reaction, result of changing levels of electrons
     -in chemistry - exist method for calculating electrons configurations(with table), the energy levels(shells), and they have observations of reactions and it is possible to predict glowing
     -simple example phosphor - when getting light(electrons moving far from nuclear)(charging), then they slowly return to them positions and it is glowing effect(emits photons)
+    */
+Certain other mechanisms can produce light:
+    Bioluminescence
     Cherenkov radiation
     -when light going through medium (light decrease speed) but electrons, whose face with the light can have speed more than the light.
     -"classic example of Cherenkov radiation is the characteristic blue glow of an underwater nuclear reactor"wiki 
