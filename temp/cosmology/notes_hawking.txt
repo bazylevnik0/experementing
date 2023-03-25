@@ -114,11 +114,26 @@ first things first: radiation https://en.wikipedia.org/wiki/Radiation
 *understanding of color is getting different re-emmited waves with different wavelengths
  
 https://en.wikipedia.org/wiki/List_of_light_sources
--Gas lighting 
--Oil Lamp
--Explosive
--Fire
+-Fire, Gas lighting, Oil Lamp
+--burning of oil,gas,wood,etc
+--*(combustion) - chemical reaction of fuel with usually oxygen
+--usually two methods for fire starting :
+-- rubbing:
+--  matches: it is same like Sodium and Potasium with air, when you rob some materials - molecules starting interact with oxygen(they heating and change state, preparing to reaction)
+--  wood friction rubbing - just heating when rubbing
+--  *atom level of consumption https://en.wikipedia.org/wiki/Chemical_bond
+--  ** if be short dicharge between atoms when materials interact
+-- spark - discharge of voltage potential through air
+-- *https://en.wikipedia.org/wiki/Electric_spark
+-- **speed of electrons near to light(heat is side effect of regular electricity)
+-- ***heat in electricity https://www.qrg.northwestern.edu/projects/vss/docs/thermal/3-why-does-electrical-current-make-heat.html
+-- ****in conductors not all electrons provide electricity, others convert they energy to heat
+
 -Incandescent light bulb 
+-*conductor(string) heating and lighting in low air(vacuum or inert gas) bulb under electricity
+
+
+-Explosive
 -Annihilation 
 -Nuclear reaction
 -Sun
