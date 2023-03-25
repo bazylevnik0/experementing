@@ -131,23 +131,32 @@ https://en.wikipedia.org/wiki/List_of_light_sources
 
 -Incandescent light bulb 
 -*conductor(string) heating and lighting in low air(vacuum or inert gas) bulb under electricity
-
+-Light-emitting diode 
+-https://www.youtube.com/watch?v=9BDTtcRMxpA
+-*it is about different silicons and the diod(two different layers of silicon), when electrons move from first to second layer - second layer lighting and heating
 
 -Explosive
+-:) It is very interesting, but i think i not can google it now, maybe i can it, it is in public, but let's leave it until better times
+in common from:
+ "
+ -chemical energy, such as nitroglycerin or grain dust
+ -pressurized gas, such as a gas cylinder, aerosol can, or BLEVE
+ -nuclear energy, such as in the fissile isotopes uranium-235 and plutonium-239
+ "wiki
+-Nuclear reaction, Sun(thermonuclear)
 -Annihilation 
--Nuclear reaction
--Sun
+*most interesting in it: https://en.wikipedia.org/wiki/Supernova 
+** thermonuclear + gravitational collapse, not sure about it: https://www.youtube.com/watch?v=XzaYNOKK6Xk , maybe also in future i will understand it)
+
 -Biophoton
 -Glowworm
 -Anglerfish
--Cathodoluminescence
 -Chemiluminescense
--Lightning
 -Fluorescent lamp 
+-Cathodoluminescence
 -Neon and argon lamps 
 -Plasma lamp 
 -Electroluminescence
--Light-emitting diode 
 -Laser 
 -Fluorescence
 -Phosphorescence
