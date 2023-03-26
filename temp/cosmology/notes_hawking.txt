@@ -133,7 +133,14 @@ https://en.wikipedia.org/wiki/List_of_light_sources
 -*conductor(string) heating and lighting in low air(vacuum or inert gas) bulb under electricity
 -Light-emitting diode 
 -https://www.youtube.com/watch?v=9BDTtcRMxpA
--*it is about different silicons and the diod(two different layers of silicon), when electrons move from first to second layer - second layer lighting and heating
+-*it is about different silicons(semiconductors) and the diod(two different layers of silicon), when electrons move from first to second layer - second layer lighting and heating
+--**mark: for diod and transistor experiments N - can gets (-) and conduct them 
+-Laser 
+-*also focused light in gas tube, with amplifying
+--Plasma lamp, tv Neon and argon lamps 
+--same cathod anod cubes but with different substances, in plasma it is plasma
+--*plasma - 4 state, gas under heated transform to plasma 
+
 
 -Explosive
 -:) It is very interesting, but i think i not can google it now, maybe i can it, it is in public, but let's leave it until better times
@@ -148,33 +155,9 @@ in common from:
 *most interesting in it: https://en.wikipedia.org/wiki/Supernova 
 ** thermonuclear + gravitational collapse, not sure about it: https://www.youtube.com/watch?v=XzaYNOKK6Xk , maybe also in future i will understand it)
 
--Biophoton
--Glowworm
--Anglerfish
--Chemiluminescense
--Fluorescent lamp 
--Cathodoluminescence
--Neon and argon lamps 
--Plasma lamp 
--Electroluminescence
--Laser 
--Fluorescence
--Phosphorescence
--Radioluminescence
--Thermoluminescence
-
-    /*temptemp
-    -luminiscense with chemical reaction, result of changing levels of electrons
-    -in chemistry - exist method for calculating electrons configurations(with table), the energy levels(shells), and they have observations of reactions and it is possible to predict glowing
-    -simple example phosphor - when getting light(electrons moving far from nuclear)(charging), then they slowly return to them positions and it is glowing effect(emits photons)
-    */
-Certain other mechanisms can produce light:
-    Bioluminescence
-    Cherenkov radiation
-    -when light going through medium (light decrease speed) but electrons, whose face with the light can have speed more than the light.
-    -"classic example of Cherenkov radiation is the characteristic blue glow of an underwater nuclear reactor"wiki 
-    Electroluminescence
-    Scintillation
-    Sonoluminescence
-    Triboluminescence
-*/
+-Chemiluminescense, Glowworm & Anglerfish(Bioluminescence)
+-luminiscense with chemical reaction, result of changing levels of electrons
+-in chemistry - exist method for calculating electrons configurations(with table), the energy levels(shells), and they have observations of reactions and it is possible to predict glowing
+-simple example phosphor - when getting light(electrons moving far from nuclear)(charging), then they slowly return to them positions and it is glowing effect(emits photons)
+    
+   
