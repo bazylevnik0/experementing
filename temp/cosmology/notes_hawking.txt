@@ -97,10 +97,14 @@ it is showin quantitive nature of atom.
 https://www.techtarget.com/whatis/definition/quantum-theory
 
 /*temp
+Max Planck:
 "that radiation from a glowing body changes in color from red, to orange, and, finally, to blue as its temperature rises." 
-something about quanta(i now don't know what is it)
+*change of temperature(kinetic energy of atoms) -> changing electromagnetic wave 
 
 first things first: radiation https://en.wikipedia.org/wiki/Radiation
+
+"radiation is the emission or transmission of energy in the form of waves"wiki
+
 -electromagnetic radiation:
 --radiovawes(longest waves in electromagnetic spectrum) <300GHz
 ---it about moving nuclear in electrons field with frequency https://www.youtube.com/watch?v=V_jYXQFjCmA
@@ -160,4 +164,16 @@ in common from:
 -in chemistry - exist method for calculating electrons configurations(with table), the energy levels(shells), and they have observations of reactions and it is possible to predict glowing
 -simple example phosphor - when getting light(electrons moving far from nuclear)(charging), then they slowly return to them positions and it is glowing effect(emits photons)
     
-   
+-particle radiation
+-some elements have a isotopes(same element but with different configuration of nuclear) these isotopes can be unstable, and unstable isotopes can emmit particles:
+--alpha 
+--*2 neutrons & 2 protons, stops with paper
+--beta
+--*electrons(also positrons - from antimatter theory https://en.wikipedia.org/wiki/Positron ), stops with metall plate 
+--gamma
+--*shortest electromagnetic waves above 30 exahertz, absorb with metall(depth)
+--neutrons   
+
+-acoustic radiation
+-sound
+-*mechanical vibration through mediums
