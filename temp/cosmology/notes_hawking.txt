@@ -181,3 +181,5 @@ in common from:
 -acoustic radiation
 -sound
 -*mechanical vibration through mediums
+
+!!!continue here:  https://docs.google.com/document/d/1G1U-yI-sezOiRkLJlqDkDkWnxef-JIjed8__85z0T4o 
