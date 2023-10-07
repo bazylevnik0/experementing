@@ -247,7 +247,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "comparator.kicad_pro",
+    "filename": "test.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -332,7 +332,7 @@
   },
   "sheets": [
     [
-      "b0a07faf-a214-46ca-a4f8-539ac76da2e3",
+      "bb173b4d-9621-4ad4-b8d6-5552f010e489",
       ""
     ]
   ],
