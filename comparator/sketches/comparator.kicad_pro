@@ -247,7 +247,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "test-details.kicad_pro",
+    "filename": "comparator.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -318,7 +318,7 @@
         "version": 0
       },
       "model_mode": 0,
-      "workbook_filename": "test-details.wbk"
+      "workbook_filename": ""
     },
     "page_layout_descr_file": "",
     "plot_directory": "",
@@ -332,7 +332,7 @@
   },
   "sheets": [
     [
-      "8300bb89-af22-40bb-96f5-ff500b49d277",
+      "b0a07faf-a214-46ca-a4f8-539ac76da2e3",
       ""
     ]
   ],
