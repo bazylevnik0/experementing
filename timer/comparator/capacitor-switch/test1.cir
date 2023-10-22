@@ -1,0 +1,11 @@
+.title KiCad schematic
+.model __Q1 PNP
+.save all
+.probe alli
+.ic V(/VC1)=0
+V1 Net-_Q1-E_ 0 DC 4 
+R1 Net-_Q1-E_ /VC1 10k
+C1 /VC1 0 400u
+R2 Net-_Q1-C_ 0 1k
+Q1 Net-_Q1-C_ 0 Net-_Q1-E_ __Q1
+.end
