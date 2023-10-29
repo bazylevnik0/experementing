@@ -1,0 +1,14 @@
+*
+
+.subckt test1
+
+
+.model __Q1 NPN
+R3 GND Net-_Q1-E_ 2000
+Q1 Net-_Q1-C_ Net-_Q1-B_ Net-_Q1-E_ __Q1
+VBT1 Net-_BT1-+_ GND DC 5 
+R2 Net-_Q1-C_ Net-_BT1-+_ 2000
+R1 Net-_BT2-+_ Net-_Q1-B_ 2000
+VBT2 Net-_BT2-+_ GND DC 3 
+
+.ends
