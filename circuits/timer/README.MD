@@ -33,3 +33,6 @@ beta:
 1V 5mA   45  135 
 1V 100mA 85  160 300
 
+https://wiki.archlinux.org/title/file_recovery
+ext4magic /dev/mapper/root -a "$(date -d "-8hours" +%s)" -f deleted/folders/root -j /home/bazylevnik0/Documents/restore/root.journal -l
+
