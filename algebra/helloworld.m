@@ -25,6 +25,8 @@
 ##A=[1,2,3]
 function retval = linear (input1)
 for var=[1,2,3]
-  input1(var)
+  if (1 == 1)
+    input1(var)
+  endif
 endfor
 endfunction

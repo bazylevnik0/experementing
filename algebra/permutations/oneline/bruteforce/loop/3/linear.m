@@ -22,9 +22,37 @@
 ## Author: bazylevnik0 <bazylevnik0@archlinux>
 ## Created: 2023-10-30
 
-##A=[1,2,3]
-function retval = linear (input1)
-for var=[1,2,3]
-  input1(var)
-endfor
+## A=[1;2;3] - input
+function retval = linear (input)
+  iter = 1; t = [0;0;0]   # template of clear array and iterator of succefull permutations
+  output = {t;t;t;t;t;t}; # prepare array for output !3 = 6(length) succefull permutations
+
+  i = 0
+  do
+    #i
+    i = i + 1
+    #do something
+    j = 0
+    do
+      #j
+      j = j + 1
+      if(j != i)
+        #do something
+        k = 0
+        do
+        #k
+        k = k + 1
+        if(k != j)
+            if(k != i)
+              #do something
+              temp = [i,j,k]
+              output(iter)=temp
+              iter= iter+1
+            endif
+        endif
+        until (k >= 3)
+      endif
+    until (j >= 3)
+  until (i >= 3)
+  output
 endfunction
