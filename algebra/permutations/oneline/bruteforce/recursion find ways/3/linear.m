@@ -22,6 +22,7 @@
 ## Author: bazylevnik0 <bazylevnik0@archlinux>
 ## Created: 2023-10-30
 
+
 function retval = new_function ( argument )
   argument = argument + 1
   argument
